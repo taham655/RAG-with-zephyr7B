@@ -10,5 +10,6 @@ while True:
     query = input("Enter query: ")  # Taking user input for the query
     response = qa_system.answer_query(query)  # Getting the response
     if response == "Exiting...":  # Check if the response indicates an exit
-        break  # Break the loop to exit
-    print(response)  # Print the response
+        break  
+    print(response)
+    print("I hate hasmat lmaooooooo he is an ass programmer")

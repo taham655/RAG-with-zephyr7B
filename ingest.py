@@ -29,7 +29,9 @@ class ingest:
         )
 
 
-    
+    def test():
+        for x in range(100):
+            print(x)
 
 
     
